@@ -1,6 +1,6 @@
 # Description
 
-This is a recipe website noting some of my favorite recipes of mine 
+This is a recipe website noting some favorite recipes of mine 
 made by Kenji López-Alt. It has four pages, a homepage and 3 recipe 
 pages. The homepage has a picture of Kenji, a short description, and 
 links to the other three recipes that are easy, intermediate, and hard.
